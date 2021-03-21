@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304946983179",
+    "project_id": "store-cfdc5",
+    "storage_bucket": "store-cfdc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304946983179:android:ee5504a140ac0f1403320e",
+        "android_client_info": {
+          "package_name": "com.tiger.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304946983179-vtnmbrohelb5fttao7gv37ioirnrhoae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPlzJfs3yqQTShRcACTX4QCHdU1PWlBjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304946983179-vtnmbrohelb5fttao7gv37ioirnrhoae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
