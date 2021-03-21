@@ -1,16 +1,14 @@
-# store
+# FruitStore
+Flutter App with FireBase as Backend. Database used is FireStore.
 
-A new Flutter project.
+Fetches Realtime data from FireStore and Displays in the Home screen.
 
-## Getting Started
+# Features:
+Create and Add Name, Price and Description of a Fruit
 
-This project is a starting point for a Flutter application.
+Delete an existing record.
 
-A few resources to get you started if this is your first Flutter project:
+Update any attributes of a record.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShots
+![Home Screen](screenshots/Home.jpeg)   ![Home Screen](screenshots/EditFruits.jpeg)   ![Home Screen](screenshots/SaveFruits.jpeg)
