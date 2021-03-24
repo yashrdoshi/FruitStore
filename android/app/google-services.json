@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575577865867",
+    "project_id": "fruitstore-de13e",
+    "storage_bucket": "fruitstore-de13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575577865867:android:a7f413637703603e799e8e",
+        "android_client_info": {
+          "package_name": "com.tiger.fruitstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575577865867-8kc8v4v9opfqe085j86ub6sfqo4pb8vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbwzjSEIPP4OLlPFg6cLGeW2PqGJDRgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575577865867-8kc8v4v9opfqe085j86ub6sfqo4pb8vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
